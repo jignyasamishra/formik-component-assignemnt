@@ -1,0 +1,8 @@
+.userform{
+    display: flex;
+    flex-direction: column;
+    
+}
+.submitbutton{
+    width: 20%;
+}
